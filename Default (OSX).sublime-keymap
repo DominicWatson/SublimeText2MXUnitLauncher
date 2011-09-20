@@ -1,0 +1,4 @@
+[
+        { "keys": ["shift+alt+t"], "command": "launch_test" },
+        { "keys": ["shift+alt+s"], "command": "launch_test_suite" }
+]
