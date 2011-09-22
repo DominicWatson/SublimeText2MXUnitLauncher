@@ -6,7 +6,7 @@ Provides commands for launching the currently open file as an MXUnit test case (
 Settings
 --------
 
-The settings file is MxUnit.sublime-settings and contains the following settings:
+You can get to the settings through Preferences->Package Settings->MXUnit. Options are:
 
 * **base_url**: The root url for your tests, *without* trailing slash. e.g. http://localhost/tests
 * **base_path**: The root path on your machine that maps to the url, *without* trailing slash
