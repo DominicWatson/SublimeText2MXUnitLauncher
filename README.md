@@ -17,3 +17,9 @@ Commands
 
 * **launch_test**: Launches the current file as an MXUnit test in the browser (shift-alt-t)
 * **launch_test_suite**: Launches the test suite in the browser (shift-alt-s)
+
+Windows Installation (Vista & Windows 7)
+----------------------------------------
+* Download and Unzip package from GitHub project page
+* Copy unzipped folder to %AppData%\Sublime Text 2\Packages
+* Restart Sublime Text 2
